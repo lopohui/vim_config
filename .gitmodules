@@ -4,3 +4,30 @@
 [submodule "bundle/vim-taglist"]
 	path = bundle/vim-taglist
 	url = https://github.com/vim-scripts/taglist.vim
+[submodule "colors"]
+	path = colors
+	url = https://github.com/altercation/vim-colors-solarized
+[submodule "colors/solarized"]
+	path = colors/solarized
+	url = https://github.com/altercation/vim-colors-solarized
+[submodule "colors/molokai"]
+	path = colors/molokai
+	url = https://github.com/tomasr/molokai
+[submodule "bundle/vim-powerline"]
+	path = bundle/vim-powerline
+	url = https://github.com/Lokaltog/vim-powerline
+[submodule "bundle/STL-Syntax"]
+	path = bundle/STL-Syntax
+	url = https://github.com/Mizuchi/STL-Syntax
+[submodule "bundle/C++_a"]
+	path = bundle/C++_a
+	url = https://github.com/vim-scripts/a.vim
+[submodule "bundle/tagbar"]
+	path = bundle/tagbar
+	url = https://github.com/majutsushi/tagbar
+[submodule "bundle/YCM"]
+	path = bundle/YCM
+	url = https://github.com/Valloric/YouCompleteMe.git
+[submodule "bundle/nerdcommenter"]
+	path = bundle/nerdcommenter
+	url = https://github.com/scrooloose/nerdcommenter
