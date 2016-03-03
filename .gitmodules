@@ -37,3 +37,12 @@
 [submodule "bundle/YouCompleteMe"]
 	path = bundle/YouCompleteMe
 	url = https://github.com/Valloric/YouCompleteMe
+[submodule "bundle/vim-FSwitch"]
+	path = bundle/vim-FSwitch
+	url = git://github.com/derekwyatt/vim-fswitch.git
+[submodule "bundle/vim-fswitch"]
+	path = bundle/vim-fswitch
+	url = https://github.com/derekwyatt/vim-fswitch
+[submodule "bundle/vim-protodef"]
+	path = bundle/vim-protodef
+	url = git://github.com/derekwyatt/vim-protodef.git
