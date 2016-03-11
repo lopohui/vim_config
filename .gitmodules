@@ -46,3 +46,18 @@
 [submodule "bundle/vim-protodef"]
 	path = bundle/vim-protodef
 	url = git://github.com/derekwyatt/vim-protodef.git
+[submodule "bundle/ultisnips"]
+	path = bundle/ultisnips
+	url = https://github.com/SirVer/ultisnips
+[submodule "bundle/nerdtree"]
+	path = bundle/nerdtree
+	url = https://github.com/scrooloose/nerdtree
+[submodule "bundle/DfrankUtil"]
+	path = bundle/DfrankUtil
+	url = https://github.com/vim-scripts/DfrankUtil.git
+[submodule "bundle/vimprj"]
+	path = bundle/vimprj
+	url = https://github.com/vim-scripts/vimprj.git
+[submodule "bundle/vim-indexer"]
+	path = bundle/vim-indexer
+	url = https://github.com/shemerey/vim-indexer.git
